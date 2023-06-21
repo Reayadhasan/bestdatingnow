@@ -1,0 +1,1 @@
+const offerLink = "http://fb.com.adit.pw/ScplRgU0zS";
